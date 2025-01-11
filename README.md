@@ -1,2 +1,3 @@
 # BankQueue
 Its a basic simulation of a bank queuing system.
+This is my basic practice as a beginner in the application of code, where I simply simulate the process of bank queuing and business handling. It mainly includes the user queue implemented through a linked queue, file storage and updates, as well as basic interface beautification and other modules. I hope it can be helpful to beginners. Thank you! If there are any problems, feel free to point them out. In addition, the work contains some code that was left behind during the operation for checking and marking purposes (not actually used in the operation), so please carefully check the comments and identify them.
