@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1735644160 source:e:\c\bank_queue\queue.cpp
+	"Customer.h"
+	"Queue.h"
+	"Teller.h"
+	"Record.h"
+	"Modify.h"
+	<cstdlib>
+	<ctime>
+
+1735527186 e:\c\bank_queue\queue.h
+	"Customer.h"
+
+1735802162 e:\c\bank_queue\customer.h
+	<string>
+	"Record.h"
+
+1735551512 e:\c\bank_queue\modify.h
+	<windows.h>
+	<conio.h>
+	<vector>
+	<string>
+	<iostream>
+	<stdio.h>
+
+1735622317 e:\c\bank_queue\teller.h
+	<string>
+	"Customer.h"
+
+1735829652 e:\c\bank_queue\record.h
+	<string>
+	<unordered_map>
+
+1735830054 source:e:\c\bank_queue\record.cpp
+	"Customer.h"
+	"Queue.h"
+	"Teller.h"
+	"Record.h"
+	"Modify.h"
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1735806441 source:e:\c\bank_queue\customer.cpp
+	"Customer.h"
+	"Queue.h"
+	"Modify.h"
+	"Teller.h"
+	"Record.h"
+	"Data.h"
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	<iomanip>
+
+1735829544 source:e:\c\bank_queue\teller.cpp
+	"Teller.h"
+	"Queue.h"
+	"Customer.h"
+	"Modify.h"
+	"Record.h"
+	"Data.h"
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1735458667 source:e:\c\bank_queue\main.cpp
+	"Bank.h"
+
+1735551512 source:e:\c\bank_queue\modify.cpp
+	"Modify.h"
+
+1735789915 source:e:\c\bank_queue\data.cpp
+	"Data.h"
+
+1735794905 e:\c\bank_queue\data.h
+	<cstdio>
+	"Customer.h"
+	<fstream>
+	<string.h>
+	<fstream>
+	<vector>
+	<string>
+
+1735829544 source:e:\c\bank_queue\bank.cpp
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Customer.h"
+	"Queue.h"
+	"Teller.h"
+	"Record.h"
+	"Modify.h"
+	"Data.h"
+
+1735459456 e:\c\bank_queue\bank.h
+
+1735486124 source:e:\c\bank_queue\database.cpp
+
